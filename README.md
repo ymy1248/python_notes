@@ -13,6 +13,7 @@ Machine Learning和MLDS基本上是自己上课的总结和作业的经验，这
    * [python3 大法师之路(1): 基本知识](python3/python_1.ipynb)
    * [python3 大法师之路(2): 进阶用法](python3/python_2.ipynb)
    * [python3 大法师之路(3): 函数式编程](python3/python_3.ipynb)
+   * [python3 大法师之路(4): 回顾函数](python3/pythn_4.ipynb)
    * [自己闹着玩：利用python3发送email](python3/4Fun_send_email.ipynb)
   * Machine Learning
    * [作业1: pm 2.5预测](ML/ML_homework_1.ipynb)
