@@ -16,9 +16,10 @@ Machine Learning和MLDS基本上是自己上课的总结和作业的经验，这
     * [python3: 函数式编程](python3/python_3.ipynb)
     * [自己闹着玩：利用python3发送email](python3/4Fun_send_email.ipynb)
   * **tensorflow 读书笔记**
-    * [input function](http://localhost:8888/notebooks/tensorflow/input%20function.ipynb)
+    * [input function](tensorflow/input%20function.ipynb)
+    * [logging and monitoring](tensorflow/logging%20and%20monitoring.ipynb)
    
-  * **Machine Learning]**
+  * **Machine Learning**
     * [作业1: pm 2.5预测(未完成)](ML/ML_homework_1.ipynb)
    
   * [MLDS](MLDS/overview.ipynb)
@@ -28,14 +29,14 @@ Machine Learning和MLDS基本上是自己上课的总结和作业的经验，这
 
 ## TODO 
 * python3
- * mutable vs. imutable
- * Closure
+  * mutable vs. imutable
+  * Closure
 * ML
- * hw1-6
- * final
+  * hw1-6
+  * final
 * MLDS 
- * hw0
- * hw1
- * hw2
- * hw3
- * hw4
+  * hw0
+  * hw1
+  * hw2
+  * hw3
+  * hw4
