@@ -16,6 +16,7 @@ Machine Learning和MLDS基本上是自己上课的总结和作业的经验，这
     * [python3: 函数式编程](python3/python_3.ipynb)
     * [自己闹着玩：利用python3发送email](python3/4Fun_send_email.ipynb)
   * **tensorflow 读书笔记**
+    * [tf.estimator quickstart](tensorflow/quickstart.ipynb)
     * [input function](tensorflow/input%20function.ipynb)
     * [logging and monitoring](tensorflow/logging%20and%20monitoring.ipynb)
    
