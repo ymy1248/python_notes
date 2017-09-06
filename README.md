@@ -11,6 +11,7 @@ github看太慢了，建议在nbviewer上阅读：[nbviewer链接](http://nbview
     * [python3: 进阶知识](python3/python_2.ipynb)
     * [python3: 函数回顧](python3/python_4.ipynb)
     * [python3: 函数式编程](python3/python_3.ipynb)
+    * [python3: 面向对象](python3/python_5_oop.ipynb)
     * [自己闹着玩：利用python3发送email](python3/4Fun_send_email.ipynb)
   * **tensorflow 读书笔记** (doing)
     * [tf.estimator quickstart](tensorflow/quickstart.ipynb)
